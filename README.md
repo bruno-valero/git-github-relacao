@@ -13,8 +13,8 @@ Caso você queira enviar todos os arquivos da pasta:<br>
 `git add .` (pressione ENTER) ----adiciona os arquivos na lista do commit<br><br>
 `git commit -m "Título do seu Commit"` (pressione ENTER) ----cadastra os arquivos da lista no Git<br><br>
 `git branch -M "main"` (pressione ENTER) ----altera a pranch para **main**<br><br>
-copie o link do seu repositório recém criado no Git Hub (exemplo: https://github.com/seuperfil/seuprojeto.git)<br>
-`git remote add origin "https://github.com/seuperfil/seuprojeto.git"` (pressione ENTER) ----faz a conexão com o repositório do Git Hub<br><br>
+copie o link do seu repositório recém criado no Git Hub (exemplo: https://github.com/seuperfil/seurepositório.git)<br>
+`git remote add origin "https://github.com/seuperfil/seurepositório.git"` (pressione ENTER) ----faz a conexão com o repositório do Git Hub<br><br>
 `git push -u origin main` (pressione ENTER) ----envia os arquivos do Git para o Git Hub<br><br>
 Agora deve aparecer uma janela para fazer o login no Git Hub, clicke em **Entrar com o Browser** (algo do tipo), então entre no seu Git Hub e confirme que você autoriza o envio desse arquivo e que está ciente de que essa máquina a partir de agora poderá enviar arquivos livremente para seus repositórios do Git Hub. Agora basta dar refresh na página do Git Hub e verá todos os arquivos que enviou.
 
